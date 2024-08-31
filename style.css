@@ -307,6 +307,11 @@ button{
 .img-frame-lg,.img-frame-rd-lg{
 	padding:14px;
 }
+/*  Image Scale */
+.img-fluid-up{
+	min-width: 100%;
+	height: auto;
+}
 
 
 
