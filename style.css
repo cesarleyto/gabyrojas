@@ -574,14 +574,8 @@ h1,h2,h3,h4,h5,h6{
 .bloc-divider-b-6872-fill{
 	fill:var(--swatch-var-7376);
 }
-.h1-consultorio-style{
-	font-family:"Josefin Sans";
-}
 .h2-contacto-style{
 	font-family:"Josefin Sans";
-}
-.p-4-style{
-	font-size:20px;
 }
 .p-5-style{
 	font-size:20px;
