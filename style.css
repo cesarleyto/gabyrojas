@@ -384,7 +384,7 @@ button{
 h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	font-family:"Josefin Slab";
 	font-weight:500;
-	color:var(--swatch-var-6728)!important;
+	color:var(--swatch-var-2869)!important;
 }
 .container{
 	max-width:1140px;
@@ -560,6 +560,7 @@ h1,h2,h3,h4,h5,h6{
 .link-style{
 	text-decoration:none;
 	width:400px;
+	font-weight:bold;
 }
 .img-grrecurso-27-style{
 	height:60px;
@@ -701,7 +702,7 @@ h1,h2,h3,h4,h5,h6{
 	
 	--swatch-var-7704:rgba(0,122,255,1.00);
 	
-	--swatch-var-2869:#000000;
+	--swatch-var-2869:rgba(0,0,0,1.00);
 	
 }
 
